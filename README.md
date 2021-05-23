@@ -19,7 +19,7 @@ But sometimes we were getting annoyed by having to log in to our E-mail account 
 
 ->The user should be conveniently and instantaneously able to share files of any of supported format i.e .pdf, .doc, .tif, .png, .jpeg, .mp4 while working on a given task/project.
 
-![requirements_specification](requirements.jpdg)
+![requirements_specification](requirements.jpg)
 
 
 
