@@ -1,2 +1,2 @@
 # sharelodge
-url(logo.gif)
+![alt text](logo.gif)
