@@ -7,7 +7,7 @@ But sometimes we were getting annoyed by having to log in to our E-mail account 
 
 <img align="right" alt="GIF" src="logo.gif" width="300" height="300" />
 
-## ABOUT OUR PROJECT :
+## About this Project :
 
 ->Sharelodge is a full stack file sharing app, this app will allow users to upload files to our website and share it with a link so that other people can download it.
 
