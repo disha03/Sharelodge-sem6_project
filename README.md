@@ -23,7 +23,9 @@ But sometimes we were getting annoyed by having to log in to our E-mail account 
 
 ## Frontend of Sharelodge
 
-![requirements_specification](view.jpg)
+![frontend](view.jpg)
+
+![frontend_mobile](view2.jpg)
 
 
 
